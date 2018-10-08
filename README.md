@@ -1,0 +1,2 @@
+# AzuteFunctionsTest
+TestContinuousdeployment
